@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "HTML\\New project"
 		}
 	],
 	"settings": {}
